@@ -1,4 +1,4 @@
-# What can we do whit this
+# What can we do with this function
 replace aws's security group unauthorized ports  
 
 It's a AWS's lambda function to help management your security groups.  
@@ -17,9 +17,7 @@ code likes this repo.
 set a SNS trigger to the lambda function you created before.   
 Absolutely, the topic is what you created before too.
 
-# Set environment variables
+# Dont't forget environment variables
 set a Environment variables to replace the 0.0.0.0/0 stuff.  
 like,  
 __authorized_global_ipv4__  8.8.8.8/32
-
-
